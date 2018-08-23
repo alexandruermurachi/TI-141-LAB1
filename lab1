@@ -1,0 +1,10 @@
+La laboratorul nr.1 facem cunostinta cu githubu.com! 
+
+Am creat creat un cont pe github.com, unde mi-am creat si o mapa MIDPS, dupa care am clonato pe PC-ul personal!
+
+Dupa crearea mapei am creat foldere pentru laboratoarele care le avem de efectuat. 
+Le vom adaugam aparte ca sa deprindem cu commit-urile,
+La fisiere text vom faceam schimbari si iarasi add, commit si push!
+
+Dupa care creeam 2 branch-uri unde vom include citeva schimbari in "documents" unde voi face instructiunea "git" sa ne arate conflict, 
+conflictul este rezolvat prin metoda alegerii bucatii de fisier de care avem nevoie, apoi le vom da iarasi add commit si push!
